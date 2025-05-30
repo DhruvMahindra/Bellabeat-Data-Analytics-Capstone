@@ -76,6 +76,15 @@ Bellabeat is a high-tech company that manufactures health-focused smart products
 - Launch **30-day challenges** to improve user engagement (e.g., “Better Sleep Week”, “7K Step Challenge”).
 
 ---
+📁 Files in This Repository
+File / Folder	Description
+Google data analytics capstone.pbix	Power BI dashboard containing all visual analysis
+Bellabeat Data Analysis Capstone.pptx	Slide deck summarizing insights and marketing recommendations
+BellaBeat Aggregated Data.xlsx	Aggregated and cleaned data in Excel format
+Google Data analytics Capstone - dailyActivity_merged.csv	Raw/merged CSV data file used for analysis
+Bellabeat aggregation SQL.pdf	PDF with SQL queries and aggregation steps used in data analysis
+
+---
 
 ## 📌 Tools & Skills Used
 
